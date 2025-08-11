@@ -1,4 +1,4 @@
-﻿# Hola, soy Carlo Gaspar 👋
+﻿# Hola, soy Carlos Gaspar 👋
 
 Soy un **desarrollador backend senior** con más de una década de experiencia en tecnología Java. Actualmente trabajo en TI y me especializo en el **framework Spring**, donde lideré la migración de una aplicación empresarial desde Spring 3 a Spring 5. También tengo experiencia con **C** y **Delphi** y disfruto aprendiendo nuevas tecnologías y metodologías.
 
