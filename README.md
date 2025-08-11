@@ -1,4 +1,4 @@
-﻿# Hola, soy Carlos Gaspar 👋
+﻿# ¡Hola, soy Carlos Gaspar! 👋
 
 ![Banner](banner.png)
 
@@ -13,6 +13,8 @@ Soy un **desarrollador backend senior** con más de una década de experiencia e
 -   🛠️ **Otras habilidades:** manejo Java (versiones 8+), JPA/Hibernate, conceptos de arquitectura limpia, bases de datos relacionales, además de conocimientos en C y Delphi.
     
 -   🌱 **Aprendiz continuo:** actualmente exploro nuevas formas de modernizar aplicaciones Java y estoy interesado en CI/CD y DevOps.
+
+-   ## 🚀 Tecnologías y herramientas ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     
 
 ## 🚀 Proyectos destacados
